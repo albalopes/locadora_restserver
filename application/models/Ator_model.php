@@ -10,9 +10,6 @@
  * @author 2813232
  */
 class Ator_model extends CI_Model{
-    public $id;
-    public $nome;
-    public $descricao;
     
     public function __construct(){
         parent::__construct();
